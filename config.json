@@ -1,8 +1,8 @@
 {
-    "sql_db_host": "localhost",
+    "sql_db_host": "103.181.182.112",
     "sql_db_user": "recgoddx_temendb",
     "sql_db_pass": "E}}cey5w~Cn^",
     "sql_db_name": "recgoddx_temendb",
-    "site_url": "http://103.181.182.112/~recgoddx",
+    "site_url": "https://temenku.com",
     "purchase_code": "121212121212"
 }
