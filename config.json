@@ -1,8 +1,8 @@
 {
     "sql_db_host": "localhost",
-    "sql_db_user": "root",
-    "sql_db_pass": "",
-    "sql_db_name": "wowonder",
-    "site_url": "http://localhost/wowonder",
-    "purchase_code": "87b008d4-eeab-4e82-9363-99f048ca197f"
+    "sql_db_user": "recgoddx_temendb",
+    "sql_db_pass": "E}}cey5w~Cn^",
+    "sql_db_name": "recgoddx_temendb",
+    "site_url": "http://103.181.182.112/~recgoddx",
+    "purchase_code": "121212121212"
 }
